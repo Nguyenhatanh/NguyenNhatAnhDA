@@ -1,0 +1,18 @@
+[theme]
+base = "light"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F9FC"
+primaryColor = "#1F4E79"
+textColor = "#1A1A1A"
+font = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+headingFont = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+headingFontWeights = [800, 700, 700, 700, 700, 700]
+
+[server]
+address = "localhost"
+port = 8501
+maxUploadSize = 200
+headless = true
+
+[browser]
+gatherUsageStats = false

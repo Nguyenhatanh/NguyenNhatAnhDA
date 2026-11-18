@@ -1,0 +1,5 @@
+Công ty: Chuỗi bán lẻ điện máy "ĐiệnMáy Xanh Lá" (B2C, omni-channel: 120 cửa hàng + Website + Shopee + TikTok Shop), hoạt động tại 5 thành phố lớn.
+Vấn đề: Doanh thu (revenue) 6 tháng gần đây (01/2026–06/2026) giảm so với 6 tháng trước đó. Ban giám đốc muốn biết nguyên nhân gốc rễ:
+do lượng đơn hàng giảm hay giá trị đơn hàng trung bình giảm, và kênh/khu vực/ngành hàng nào kéo lùi doanh thu nhiều nhất.
+KPI chính: revenue (VNĐ/đơn hàng). Dữ liệu: đơn hàng 07/2025–06/2026.
+Từ điển: discount_code là mã giảm giá, được phép trống (đơn không dùng mã). discount_pct là % giảm giá.
